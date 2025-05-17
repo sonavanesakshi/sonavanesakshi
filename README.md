@@ -1,9 +1,4 @@
-
-
-
-**sonavanesakshi/sonavanesakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- Hi there, I’m Sakshi Sonavane 👋  
+Hi there, I’m Sakshi Sonavane 👋  
 
 🔭 I’m currently working on Python-based full stack projects integrating AI/ML models.  
 🌱 I’m currently learning advanced machine learning techniques, AWS cloud services, and scalable backend development.  
